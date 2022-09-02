@@ -1,3 +1,6 @@
+Name: Leonardo Lou
+USC ID: 2816259728
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
